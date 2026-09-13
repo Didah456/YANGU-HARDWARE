@@ -1,0 +1,6 @@
+{
+  "name": "Yangu Hardware",
+  "description": "Simple, modern business management dashboard for hardware shops featuring clean records, visual sales and expense graphs, inventory alerts, AI business assistant, and WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
